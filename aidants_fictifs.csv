@@ -1,0 +1,5 @@
+aidant_id,prenom,relation,heures_aide_semaine,niveau_fatigue,soutien_famille
+1,Maya,fille,18,7,moyen
+2,Louis,conjoint,35,9,faible
+3,Amina,soeur,10,4,bon
+4,Claire,amie,6,3,bon

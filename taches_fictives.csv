@@ -1,0 +1,7 @@
+tache_id,categorie,description,frequence,priorite
+1,médication,Vérifier la prise du médicament du matin,quotidienne,haute
+2,rendez-vous,Préparer les documents pour le médecin,hebdomadaire,moyenne
+3,repas,Planifier deux repas simples et nutritifs,quotidienne,moyenne
+4,bien-être,Prévoir une pause de 20 minutes pour l'aidant·e,quotidienne,haute
+5,administratif,Classer les factures et formulaires,mensuelle,basse
+6,sécurité,Vérifier que les passages sont dégagés à la maison,hebdomadaire,haute
